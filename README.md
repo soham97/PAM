@@ -1,5 +1,5 @@
 # PAM: Prompting Audio-Language Models for Audio Quality Assessment
-[[`Paper`](https://arxiv.org/abs/2402.00282)] [[`data`]()]
+[[`Paper`](https://arxiv.org/abs/2402.00282)] [[`data`](https://github.com/soham97/PAM/tree/main?tab=readme-ov-file#data)]
 
 PAM is a no-reference metric for assessing audio quality for different audio processing tasks. It prompts Audio-Language Models (ALMs) using an antonym prompt strategy to calculate an audio quality score. It does not require reference data or task-specific models and correlates well with human perception.
 ![PAM_9 (1)](https://github.com/soham97/PAM/assets/28994673/3c0754ac-636a-4fc6-8045-d06282121ea4)
