@@ -4,6 +4,10 @@
 PAM is a no-reference metric for assessing audio quality for different audio processing tasks. It prompts Audio-Language Models (ALMs) using an antonym prompt strategy to calculate an audio quality score. It does not require reference data or task-specific models and correlates well with human perception.
 ![PAM_9 (1)](https://github.com/soham97/PAM/assets/28994673/3c0754ac-636a-4fc6-8045-d06282121ea4)
 
+## News
+[Jul 24] Coming soon- improved variable length performance <br>
+[Mar 24] PAM is accepted at INTERSPEECH 2024
+
 ## Setup
 Open the [Anaconda](https://www.anaconda.com) terminal and run:
 ```shell
