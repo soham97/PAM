@@ -48,9 +48,7 @@ class AudioDataset(Dataset):
                 # remaining audio repeat and cut off
                 remaining = audio[cutoff*SAMPLES:]
                 if remaining.shape[0] != 0:
-                    repeat_factor = int(np.ceil((SAMPLES) / remaining.shape[0]))
-                    remaining = remaining.repeat(repeat_factor)
-                    remaining = remaining[0:SAMPLES]
+                    remaining = audio[-SAMPLES:]
                     audio = torch.cat([initial_audio_series, remaining])
                 else:
                     audio = initial_audio_series
