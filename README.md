@@ -5,7 +5,7 @@ PAM is a no-reference metric for assessing audio quality for different audio pro
 ![PAM_9 (1)](https://github.com/soham97/PAM/assets/28994673/3c0754ac-636a-4fc6-8045-d06282121ea4)
 
 ## News
-[Jul 24] Improved human correlation across tasks with minor dataset change [[commit]](https://github.com/soham97/PAM/commit/5ee2bbe586917456981f7ddc5e933a97b9e526cd)<br>
+[Jul 24] Improved human correlation across tasks [[commit]](https://github.com/soham97/PAM/commit/5ee2bbe586917456981f7ddc5e933a97b9e526cd)<br>
 [Mar 24] PAM is accepted at INTERSPEECH 2024
 
 ## Setup
